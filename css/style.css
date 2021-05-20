@@ -1,0 +1,33 @@
+h1 {
+    color:rgb(12, 146, 146)
+}
+
+.logo {
+    width: 0.15px;
+    height:0.5px;
+}
+
+
+.img-thumbnail{
+    border-radius: 10px;
+    width: 18rem;
+    height: 18rem;
+
+}
+
+form {
+    background-color: rgb(192, 222, 223);
+}
+
+
+
+.footer{
+    text-align: center;
+    
+}
+iframe{
+    width: 500px; 
+    height:350px; 
+    border-color:black;
+
+}
